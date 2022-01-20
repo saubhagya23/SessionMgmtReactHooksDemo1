@@ -1,0 +1,8 @@
+export const ActionTypes = {
+    LOGIN: 'LOGIN',
+    LOGOUT: 'LOGOUT',
+    API_SUCCESS: 'API_SUCCESS',
+    API_ERROR: 'API_ERROR',
+    SET_LOADER: 'SET_LOADER',
+    API_REQUEST: 'API_REQUEST'
+}
